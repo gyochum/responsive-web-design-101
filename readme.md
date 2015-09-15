@@ -1,0 +1,1 @@
+This is a starter repo to learn responsive web design fundamentals.
